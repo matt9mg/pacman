@@ -15,4 +15,4 @@ Download the repository and simply run from within that folder.
 
 Turn up your volume, time to get nostalgic!!!
 
-[pacman](pacman.png)
+![pacman](pacman.png)
